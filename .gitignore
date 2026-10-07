@@ -1,0 +1,22 @@
+# .gitignore
+
+node_modules
+.next
+out
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+coverage
+.vite
+.npm
+pnpm-debug.log*
+*.pem
+*.pfx
+*.crt
+*.key
+/.idea
+/.vscode
+/.turbo
+/.cache
