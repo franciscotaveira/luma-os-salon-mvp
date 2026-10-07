@@ -1,0 +1,44 @@
+# plan.md template
+
+```markdown
+# Plan: [Project Name]
+
+## Phase 1 — Foundation
+### Goal
+[Describe the primary goal]
+
+### Deliverables
+- [deliverable 1]
+- [deliverable 2]
+
+### Key tasks
+1. [task 1]
+2. [task 2]
+3. [task 3]
+
+## Phase 2 — Core workflow
+### Goal
+[Describe the main execution flow]
+
+### Deliverables
+- [deliverable 1]
+- [deliverable 2]
+
+### Key tasks
+1. [task 1]
+2. [task 2]
+3. [task 3]
+
+## Phase 3 — Validation and launch
+### Goal
+[Describe final validation and deployment preparation]
+
+### Deliverables
+- [deliverable 1]
+- [deliverable 2]
+
+### Key tasks
+1. [task 1]
+2. [task 2]
+3. [task 3]
+```

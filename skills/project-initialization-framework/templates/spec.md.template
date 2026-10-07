@@ -1,0 +1,49 @@
+# spec.md template
+
+```markdown
+# Spec: [Project Name]
+
+## Objective
+[Describe the primary objective of the system]
+
+## Core business
+[Describe what the system must support]
+
+## Primary users
+- [user role 1]
+- [user role 2]
+
+## Success definition
+[What must be true for the system to be accepted]
+
+## Acceptance criteria
+- [ ] Criterion 1
+- [ ] Criterion 2
+- [ ] Criterion 3
+
+## Scope boundaries
+### In scope
+- [item 1]
+- [item 2]
+
+### Out of scope
+- [item 1]
+- [item 2]
+
+## MVP vs future roadmap
+### MVP
+- [item 1]
+- [item 2]
+
+### Future
+- [item 1]
+- [item 2]
+
+## Risks
+- [risk 1]
+- [risk 2]
+
+## Strategic decisions
+- [decision 1]
+- [decision 2]
+```

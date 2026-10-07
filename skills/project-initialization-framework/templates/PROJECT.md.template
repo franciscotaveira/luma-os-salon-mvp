@@ -1,0 +1,55 @@
+# PROJECT.md template
+
+```markdown
+---
+tipo: contexto-ia
+type: project-context
+area: [project-area]
+status: ativo
+criado: 2026-10-07
+atualizado: 2026-10-07
+resumo: "Contexto geral do projeto para IAs e equipe"
+proprietario: [owner name]
+---
+
+# PROJECT.md — [Project Name]
+
+## Overview
+[What the project is in 1-2 sentences]
+
+## Objective
+[The problem it solves]
+
+## Scope
+### In scope
+- [item 1]
+- [item 2]
+
+### Out of scope
+- [item 1]
+- [item 2]
+
+## Team
+- Product: [name/role]
+- Engineering: [name/role]
+- Design: [name/role]
+
+## Stack
+- [technology 1]
+- [technology 2]
+
+## Timeline
+- Phase 1: [dates]
+- Phase 2: [dates]
+
+## Constraints
+- [constraint 1]
+- [constraint 2]
+
+## Success = ?
+[Definition of when the project is considered done]
+
+## Useful links
+- [link 1]
+- [link 2]
+```

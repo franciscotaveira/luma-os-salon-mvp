@@ -1,0 +1,62 @@
+# AGENTS.md template
+
+```markdown
+# AGENTS.md — [Project Name]
+
+## Mission
+[Describe the business goal and core product outcome in 2-3 lines]
+
+## Core principles
+1. Diagnose before prescribing.
+2. Prioritize MVP and operational value.
+3. No secrets in source code.
+4. Acceptance criteria before implementation.
+5. Test before merge.
+6. Review is mandatory.
+7. Security by design.
+8. One task = one objective.
+9. Document decisions.
+10. Critical actions need audit trail.
+
+## Team roles
+- Product Spec Architect
+- Solution Architect
+- Backend Engineer
+- Frontend Engineer
+- QA Engineer
+- Security Engineer
+- DevOps Engineer
+
+## Lifecycle
+1. SPEC
+2. PLAN
+3. IMPLEMENT
+4. TEST
+5. REVIEW
+6. SHIP
+
+## Must do
+- Check repo state before making changes
+- Read relevant files before coding
+- Validate assumptions with evidence
+- Keep tasks small and reviewable
+- Use local environment for verification
+- Keep docs updated
+- Keep secrets out of source control
+
+## Must not do
+- Skip review gates
+- Ignore acceptance criteria
+- Assume context without checking files
+- Merge unverified work
+- Add unrelated scope without approval
+
+## Review gate
+No task is done until:
+- implementation exists
+- tests pass
+- docs updated
+- security check complete
+- acceptance criteria validated
+- diff reviewed
+```

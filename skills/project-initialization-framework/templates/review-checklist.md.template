@@ -1,0 +1,34 @@
+# review-checklist.md template
+
+```markdown
+# Review Checklist: [Project Name]
+
+## Functional review
+- [ ] core flow works
+- [ ] key user actions work
+- [ ] edge cases considered
+
+## Security review
+- [ ] no secrets in source
+- [ ] auth and roles verified
+- [ ] data protection reviewed
+
+## Architecture review
+- [ ] modules are isolated
+- [ ] business logic is organized
+- [ ] future integrations are prepared
+
+## DevOps review
+- [ ] local environment runs
+- [ ] env config documented
+- [ ] health checks exist
+
+## Definition of done
+A task or change is done only if:
+- [ ] feature works
+- [ ] tests pass
+- [ ] docs updated
+- [ ] security reviewed
+- [ ] acceptance criteria validated
+- [ ] diff reviewed
+```

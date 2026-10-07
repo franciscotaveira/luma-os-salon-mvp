@@ -1,0 +1,32 @@
+# LEIA-ME.md template
+
+```markdown
+# LEIA-ME — [Project Name]
+
+## Start here
+Read in this order:
+1. LEIA-ME.md
+2. AGENTS.md
+3. PROJECT.md
+4. docs/spec.md
+5. docs/plan.md
+6. docs/tasks.md
+7. docs/review-checklist.md
+
+## Folder meaning
+| Path | Meaning | Permission |
+|------|---------|------------|
+| /docs | specification and planning | read + update with context |
+| /src | source code | implement |
+| /prompts | specialist prompts | read + use |
+| /acervo | imported material | read only |
+| /workflows | automation | read and update when allowed |
+
+## Conduct
+- diagnose before prescribing
+- prefer simple, verifyable solutions
+- do not invent requirements
+- keep data local and secure
+- avoid secrets in code
+- validate before closing work
+```

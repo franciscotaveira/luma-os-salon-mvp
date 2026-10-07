@@ -1,0 +1,37 @@
+# tasks.md template
+
+```markdown
+# Tasks: [Project Name]
+
+## Task 1 — [Short task title]
+**Owner:** [role]
+**Status:** Pending
+**Goal:** [Objective]
+
+**Acceptance criteria**
+- [ ] [criterion 1]
+- [ ] [criterion 2]
+
+**Dependencies**
+- [dependency 1]
+
+**Verification**
+- [command or validation action]
+
+---
+
+## Task 2 — [Short task title]
+**Owner:** [role]
+**Status:** Pending
+**Goal:** [Objective]
+
+**Acceptance criteria**
+- [ ] [criterion 1]
+- [ ] [criterion 2]
+
+**Dependencies**
+- [dependency 1]
+
+**Verification**
+- [command or validation action]
+```
